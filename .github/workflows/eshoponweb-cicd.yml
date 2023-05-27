@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-OpenID  
   LOCATION: eastasia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/059c9016-d1c7-4fcf-a67a-ab3b4f419d16
+  SUBSCRIPTION-ID: 059c9016-d1c7-4fcf-a67a-ab3b4f419d16
   WEBAPP-NAME: az400-webapp-OpenID
 
 
